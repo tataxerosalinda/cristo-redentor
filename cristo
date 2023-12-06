@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Cristo Redentor - Rio de Janeiro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #444;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      padding: 10px 20px;
+    }
+    nav a:hover {
+      background-color: #555;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Cristo Redentor - Rio de Janeiro</h1>
+    <p>Explore a majestosa estátua do Cristo Redentor.</p>
+  </header>
+
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#localizacao">Localização</a>
+    <a href="#curiosidades">Curiosidades</a>
+  </nav>
+
+  <section id="sobre">
+    <h2>Sobre o Cristo Redentor</h2>
+    <p>O Cristo Redentor é uma estátua art déco localizada no topo do morro do Corcovado, no Rio de Janeiro, Brasil. É um símbolo icônico da cidade e uma das Sete Maravilhas do Mundo Moderno.</p>
+    <img src="C:\Users\thais linda\Desktop\corcovado-cristo-redentor-4.jpg" alt="Cristo Redentor">
+  </section>
+
+  <section id="localizacao">
+    <h2>Localização</h2>
+    <p>O Cristo Redentor está localizado no Parque Nacional da Tijuca, a cerca de 710 metros acima do nível do mar.</p>
+    <img src="C:\Users\thais linda\Desktop\Capturar.JPG" alt="Localização do Cristo Redentor">
+  </section>
+
+  <section id="curiosidades">
+    <h2>Curiosidades</h2>
+    <p>- A estátua foi inaugurada em 1931.<br>
+    - Tem 30 metros de altura e os braços se estendem por 28 metros de largura.<br>
+    - É feita de concreto armado e revestida por pedra-sabão.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Cristo Redentor - Rio de Janeiro</p>
+  </footer>
+
+</body>
+</html>
